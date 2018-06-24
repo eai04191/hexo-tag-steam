@@ -1,0 +1,27 @@
+{
+  "name": "hexo-tag-steam",
+  "version": "1.0.0",
+  "description": "Embed Steam tag plugin for Hexo.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eai04191/hexo-tag-steam.git"
+  },
+  "keywords": [
+    "hexo",
+    "tag",
+    "steam",
+    "embed",
+    "blog"
+  ],
+  "author": {
+    "email": "eai@mizle.net",
+    "name": "eai04191",
+    "url": "https://mizle.net/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eai04191/hexo-tag-steam/issues"
+  },
+  "homepage": "https://github.com/eai04191/hexo-tag-steam#readme"
+}
