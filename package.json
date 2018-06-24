@@ -1,6 +1,6 @@
 {
   "name": "hexo-tag-steam",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Embed Steam tag plugin for Hexo.",
   "main": "index.js",
   "repository": {
