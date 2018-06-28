@@ -9,7 +9,7 @@ hexo.extend.tag.register("steam", function (args) {
     if (args[0] && args[0].match(/https\:\/\/store\.steampowered\.com\/app\/[0-9]+/)) {
 
         // URL
-        appId = args[0].match(/https\:\/\/store\.steampowered\.com\/app\/([0-9]+)\//)[1];
+        appId = args[0].match(/https\:\/\/store\.steampowered\.com\/app\/([0-9]+)/)[1];
 
     } else if (args[0] && args[0].match(/^[0-9]+$/)) {
 
